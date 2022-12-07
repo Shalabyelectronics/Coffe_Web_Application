@@ -1,4 +1,4 @@
-# Coffe_Web_Application
+# Coffe Web Application with CSV as Basic Database
 It's Another Flask Practice where we practice dealing with CSV files to update your table and display it on the page again.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/57592040/158473688-02bb42ed-40ff-4f1a-91a2-f65df71c714a.gif)
